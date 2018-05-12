@@ -1,0 +1,70 @@
+_repo: Deutsches-Leben-der-Gegenwart_16264
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Scheler, Max
+    alias: Scheler, Max Ferdinand
+    birthdate: 1874
+    deathdate: 1928
+    gutenberg_agent_id: '6583'
+    url: http://www.gutenberg.org/2009/agents/6583
+    wikipedia: http://en.wikipedia.org/wiki/Max_Scheler
+  - agent_name: Bekker, Paul
+    birthdate: 1882
+    deathdate: 1937
+    gutenberg_agent_id: '6582'
+    url: http://www.gutenberg.org/2009/agents/6582
+    wikipedia: http://de.wikipedia.org/wiki/Paul_Bekker
+  - agent_name: Briefs, Goetz A. (Goetz Antony)
+    alias: Briefs, Goetz Antony
+    birthdate: 1889
+    deathdate: 1974
+    gutenberg_agent_id: '6585'
+    url: http://www.gutenberg.org/2009/agents/6585
+    wikipedia: http://de.wikipedia.org/wiki/G%C3%B6tz_Briefs
+  - &id001
+    agent_name: Witkop, Philipp
+    birthdate: 1880
+    deathdate: 1942
+    gutenberg_agent_id: '6581'
+    url: http://www.gutenberg.org/2009/agents/6581
+    wikipedia: http://de.wikipedia.org/wiki/Philipp_Witkop
+  - agent_name: Sommerfeld, Arnold
+    aliases:
+    - Sommerfeld, Arnold Johannes Wilhelm
+    - Sommerfeld, A. (Arnold)
+    - Zommerfel'd, A. (Arnold)
+    birthdate: 1868
+    deathdate: 1951
+    gutenberg_agent_id: '6584'
+    url: http://www.gutenberg.org/2009/agents/6584
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Sommerfeld
+  editor: *id001
+description: ''
+gutenberg_bookshelf:
+- German Language Books
+- DE Sachbuch
+gutenberg_issued: '2005-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16264'
+language: de
+physical_description_note: ' with 8 diagrams'
+production_note: EBook produced by Martin C. Doege <mdoege@compuserve.com>
+publication_note: "Berlin 1922\r\nVolksverband der Bücherfreunde\r\nWegweiser Verlag\
+  \ GmbH"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Civilization'
+- !lcc 'DD'
+tableOfContents: Deutsche Dichtung der Gegenwart, von Prof. Dr. Philipp Witkop --
+  Deutsche Musik der Gegenwart, von Paul Bekker -- Deutsche Philosophie der Gegenwart,
+  von Prof. Dr. Max Scheler -- Relativitätstheorie, von Prof. Dr. A. Sommerfeld --
+  Deutsche Wirtschaftsprobleme der Gegenwart, von Prof. Dr. Goetz Briefs
+title: Deutsches Leben der Gegenwart
+url: http://www.gutenberg.org/ebooks/16264
