@@ -44,6 +44,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Arnold_Sommerfeld
   editor: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16264#Deutsches-Leben-der-Gegenwart
 gutenberg_bookshelf:
 - German Language Books
 - DE Sachbuch
